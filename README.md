@@ -77,6 +77,3 @@ jupyter notebook i23-2607_Assignment2_DS_A.ipynb
 - Pandas
 - Matplotlib
 
-## Author
-
-CS-4063 NLP Course Assignment
