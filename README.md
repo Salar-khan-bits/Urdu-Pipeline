@@ -42,18 +42,32 @@ Transformer-based text classification for BBC Urdu articles.
 python transformer.py
 ```
 
+## Jupyter Notebooks
+
+A comprehensive Jupyter notebook (`i23-2607_Assignment2_DS_A.ipynb`) is provided that includes:
+- Complete implementation of all assignment parts
+- Data exploration and visualization
+- Model training and evaluation
+- Results and analysis
+
+To run the notebook:
+
+```bash
+jupyter notebook i23-2607_Assignment2_DS_A.ipynb
+```
+
 ## Project Structure
 
 ```
 .
-├── data/           # Dataset files
-├── embeddings/     # Saved embedding models
-├── models/         # Trained model checkpoints
-├── notebooks/      # Jupyter notebooks for analysis
-├── Part1_embeddings.py
-├── Part2_bilstm.py
-├── Part3_transformer.py
-└── utils.py        # Helper functions
+├── data/                               # Dataset files
+├── embeddings/                         # Saved embedding models
+├── models/                             # Trained model checkpoints
+├── i23-2607_Assignment2_DS_A.ipynb    # Complete assignment notebook
+├── embeddings.py
+├── bilstm.py
+├── transformer.py
+└── utils.py                            # Helper functions
 ```
 
 ## Requirements
